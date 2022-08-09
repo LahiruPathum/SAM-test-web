@@ -1,7 +1,8 @@
 name: sam-web-host-workflow
 on: 
-  push: 
-    - main
+  push:
+    branches:
+      - main
 jobs:
   s3-deploy:
     runs-on: ubuntu-latest

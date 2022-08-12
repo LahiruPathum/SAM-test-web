@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          SAM web hosting test 10
+          SAM web hosting test 20
         </p>
         <a
           className="App-link"
